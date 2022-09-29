@@ -5,3 +5,5 @@ Use https://github.com/adnanyangilic/AdminLte_dotnetcoremvc31/blob/master/AdminL
 
 
 Same html template page is in https://github.com/ColorlibHQ/AdminLTE/blob/master/pages/examples/blank.html
+
+Simply comment out old _Layout.cshtml markup. You must escape from razor intervention by adding one more @ infront of razor @ symbol. 
